@@ -1,0 +1,9 @@
+body {
+  background-color: red;
+}
+
+#survey-form__submit {
+  display: block;
+  margin: auto;
+  padding: 0.75em;
+}
